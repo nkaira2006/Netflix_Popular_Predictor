@@ -48,6 +48,3 @@ Defined using a heuristic based on:
 - Deploy the model using Streamlit
 
 ---
-
-## Author
-Made with frustration and persistence by **Naira**  
